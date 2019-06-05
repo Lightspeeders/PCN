@@ -206,6 +206,10 @@ img{
   text-transform:uppercase;
 }
 
+.pay1 {
+	background-color: lightgray;
+}
+
 /* MEDIA QUERIES */
 @media(max-width:800px){
   #showcase h1{
