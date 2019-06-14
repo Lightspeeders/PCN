@@ -1,0 +1,9 @@
+﻿# Rule 1 - Allow All indexing searchbots
+User-agent: *
+Disallow:
+User-agent: *
+Allow: /
+#Rule 2 - Sitemap location
+Sitemap: http://www.parkingchargenotice.com/sitemap.xml
+#Rule 3 - Block gv
+Disallow: /google4fa143b1a96543af.html

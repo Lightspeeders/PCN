@@ -61,7 +61,7 @@
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="SDFEZNH3TWP8S">
 <table>
-<tr><td><input type="hidden" name="on0" value="Registration Number:">Registration Number:</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on0" value="Registration Number">Registration Number</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
 <tr><td><input type="hidden" name="on1" value="Reference Number">Reference Number</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 </table>
 <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
