@@ -21,6 +21,6 @@ $validator->field('message')->maxLength(6000);
 
 
 
-$pp->sendEmailTo('parkingcontrolnational@gmail.com'); // ← Your email here
+$pp->sendEmailTo('appeal.parkingchargenotice@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);

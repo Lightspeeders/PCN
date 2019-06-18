@@ -84,7 +84,7 @@
             <ul>
 				<li><i class="fa fa-check"></i> Full rate due within 28 days</li>
 				<li><i class="fa fa-check"></i> Reduced rate accepted within 14 days</li>
-				<li><i class="fa fa-check"></i> Phone payments accepted: (08432) 897 726</li>
+				<li><i class="fa fa-check"></i> Phone payments accepted: (03333) 390 520</li>
             </ul>
           </div>
         </div>
